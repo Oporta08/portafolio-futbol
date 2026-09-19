@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Temporales de Python y Jupyter
+.ipynb_checkpoints/
